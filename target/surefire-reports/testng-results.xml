@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-04-28T19:18:28 IST" name="Suite" finished-at="2020-04-28T19:18:43 IST" duration-ms="14337">
+  <suite started-at="2020-04-29T09:53:08 IST" name="Suite" finished-at="2020-04-29T09:53:22 IST" duration-ms="14246">
     <groups>
     </groups>
-    <test started-at="2020-04-28T19:18:28 IST" name="Test" finished-at="2020-04-28T19:18:43 IST" duration-ms="14337">
+    <test started-at="2020-04-29T09:53:08 IST" name="Test" finished-at="2020-04-29T09:53:22 IST" duration-ms="14246">
       <class name="testAutomation.OpenBrowserGoogle">
-        <test-method signature="OpenBrowser()[pri:0, instance:testAutomation.OpenBrowserGoogle@424e1977]" started-at="2020-04-28T19:18:28 IST" name="OpenBrowser" finished-at="2020-04-28T19:18:43 IST" duration-ms="14271" status="PASS">
+        <test-method signature="OpenBrowser()[pri:0, instance:testAutomation.OpenBrowserGoogle@424e1977]" started-at="2020-04-29T09:53:08 IST" name="OpenBrowser" finished-at="2020-04-29T09:53:22 IST" duration-ms="14193" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowser -->
